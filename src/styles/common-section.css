@@ -1,0 +1,12 @@
+.common__section {
+  background: linear-gradient(#cecfd4b2, #f4f4f4b2),
+    url("../assets/images/cake2.png");
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 80px 0px;
+}
+.title__color{
+  color: rgb(91, 89, 89);
+}

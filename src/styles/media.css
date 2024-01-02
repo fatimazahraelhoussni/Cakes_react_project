@@ -1,0 +1,30 @@
+@media only screen and (max-width: 600px) {
+    .hero__btns button {
+        padding: 7px 41px;
+
+        margin: 0;
+
+    }
+
+    .hero__btns,
+    .hero__service {
+        justify-content: space-between;
+
+    }
+
+    section {
+        padding: 1px 1px !important;
+    }
+
+    h1,
+    h2 {
+        font-size: 1.5rem;
+    }
+}
+
+/* Media query for screens larger than 900 pixels */
+@media only screen and (min-width: 900px) {
+    .hero__btns button {
+        margin-right: 7px;
+    }
+}
