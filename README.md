@@ -3,7 +3,7 @@
 Bienvenue sur le projet **Cake E-Commerce**, une plateforme en ligne pour la vente de délicieux gâteaux. Ce projet a été développé pour démontrer différentes fonctionnalités clés d'un site e-commerce.
 
 ## Déploiement
-Le site est déployé et accessible via [votre-lien-de-déploiement](lien-de-votre-deploiement).
+Le site est déployé et accessible via: https://cake-29d35.web.app/
 
 Pour visionner une démo du site, veuillez suivre le lien vers la vidéo sur Google Drive: https://drive.google.com/file/d/1eqWIEsfD2lQ4l5OjNwT3C6Sq60mpdu3v/view?usp=drive_link
 
