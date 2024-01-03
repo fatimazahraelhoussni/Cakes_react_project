@@ -25,6 +25,7 @@ EL HOUSSNI Fatima Zahra
 - **Page produit**
 - **Page panier et de paiement**
 - **Page de contact**
+- Design responsive
 - Interface utilisateur moderne et minimaliste impressionnante
 
 ## Authentification et Inscription Utilisateur
