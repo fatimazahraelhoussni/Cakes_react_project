@@ -3,8 +3,6 @@ import { Routes, Route, Navigate } from "react-router-dom";
 
 // No protected
 import Home from "../pages/Home";
-import PizzaDetails from "../pages/ProductDetails";
-import Allfoods from "../pages/Allproducts";
 import Login from "../pages/Login";
 import Register from "../pages/Register";
 import Profil from "../pages/Profil";
