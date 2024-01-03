@@ -9,7 +9,7 @@ Pour visionner une démo du site, veuillez suivre le lien vers la vidéo sur Goo
 
 Et pour plus de détails et des images démonstratives, veuillez consulter le rapport complet ici: https://drive.google.com/file/d/1ba-ZwI2S5RxkTBpmLOEIDqxmxuiwB3gq/view?usp=drive_link
 
-##Équipe :
+## Équipe :
 EL HOUSSNI Fatima Zahra
 
 ## Fonctionnalités
