@@ -2,6 +2,11 @@
 
 Bienvenue sur le projet **Cake E-Commerce**, une plateforme en ligne pour la vente de délicieux gâteaux. Ce projet a été développé pour démontrer différentes fonctionnalités clés d'un site e-commerce.
 
+## Déploiement
+Le site est déployé et accessible via [votre-lien-de-déploiement](lien-de-votre-deploiement).
+
+Pour visionner une démo du site, veuillez suivre le lien vers la vidéo sur Google Drive [lien-vers-la-vidéo](lien-de-la-video).
+
 ## Fonctionnalités
 - Fonctionnalité d'**ajout au panier**
 - Fonctionnalité de **panier d'achat**
@@ -36,7 +41,4 @@ Assurez-vous d'avoir les versions suivantes installées sur votre machine :
 - **Node.js v20**
 - **npm v9**
 
-## Déploiement
-Le site est déployé et accessible via [votre-lien-de-déploiement](lien-de-votre-deploiement).
 
-Pour visionner une démo du site, veuillez suivre le lien vers la vidéo sur Google Drive [lien-vers-la-vidéo](lien-de-la-video). Profitez de vos achats de délicieux gâteaux sur notre plateforme Cake E-Commerce ! Si vous avez des questions ou des commentaires, n'hésitez pas à nous contacter via la page dédiée.
