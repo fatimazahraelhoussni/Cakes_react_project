@@ -6,6 +6,7 @@ Bienvenue sur le projet **Cake E-Commerce**, une plateforme en ligne pour la ven
 Le site est déployé et accessible via: https://cake-29d35.web.app/
 
 Pour visionner une démo du site, veuillez suivre le lien vers la vidéo sur Google Drive: https://drive.google.com/file/d/1eqWIEsfD2lQ4l5OjNwT3C6Sq60mpdu3v/view?usp=drive_link
+Et pour plus de détails et des images démonstratives, veuillez consulter le rapport complet ici: https://drive.google.com/file/d/1ba-ZwI2S5RxkTBpmLOEIDqxmxuiwB3gq/view?usp=drive_link
 
 ## Fonctionnalités
 - Fonctionnalité d'**ajout au panier**
