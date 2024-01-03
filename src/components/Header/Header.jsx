@@ -15,7 +15,7 @@ const nav__links = [
   },
   {
     display: "Pastry Selections",
-    path: "/foods",
+    path: "/cakes",
   },
   {
     display: "Cart",
