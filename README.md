@@ -40,5 +40,17 @@ EL HOUSSNI Fatima Zahra
 Assurez-vous d'avoir les versions suivantes installées sur votre machine :
 - **Node.js v20**
 - **npm v9**
+  
+---
 
+##### Pour démarrer le projet avec moi, téléchargez simplement le fichier de démarrage et exécutez le script disponible
+
+```javascript
+// Tout d'abord, installez toutes les dépendances nécessaires
+
+npm i
+
+// Ensuite, exécutez
+
+npm start
 
