@@ -18,15 +18,10 @@ Pour visionner une démo du site, veuillez suivre le lien vers la vidéo sur Goo
 
 ## Authentification et Inscription Utilisateur
 - **Inscription utilisateur**
-  - Les nouveaux utilisateurs peuvent créer un compte en fournissant des informations telles que le nom d'utilisateur, l'e-mail et le mot de passe.
 - **Connexion utilisateur**
-  - Les utilisateurs enregistrés peuvent se connecter en utilisant leurs identifiants.
 - **Profil utilisateur**
-  - Les utilisateurs disposent d'une page de profil où ils peuvent mettre à jour leurs informations personnelles.
 - **Commentaires et Interactions**
   - Les utilisateurs connectés peuvent laisser des commentaires sur les produits.
-  - Possibilité de répondre aux commentaires d'autres utilisateurs.
-  - Les utilisateurs peuvent noter les produits.
 
 ## Technologies Utilisées
 - **React.js**
