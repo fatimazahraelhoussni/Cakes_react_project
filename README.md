@@ -9,7 +9,7 @@ Le site est déployé et accessible via: https://cake-29d35.web.app/
 
 Pour visionner une démo du site, veuillez suivre le lien vers la vidéo sur Google Drive: https://drive.google.com/file/d/1eqWIEsfD2lQ4l5OjNwT3C6Sq60mpdu3v/view?usp=drive_link
 
-Et pour des images démonstratives, veuillez consulter le rapport complet ici: [https://drive.google.com/file/d/1jk4vaeeweBqDpGfRy5-xCl8Ue8uQNjdB/view?usp=drive_link](https://drive.google.com/file/d/1jk4vaeeweBqDpGfRy5-xCl8Ue8uQNjdB/view?usp=drive_link)
+Et pour des images démonstratives, veuillez consulter le rapport complet ici: https://drive.google.com/file/d/1bkOr0HJLxRllkECv0Q34JTjyMyhetpIq/view?usp=drive_link
   
 ---
 
