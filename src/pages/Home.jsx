@@ -97,7 +97,7 @@ const Home = () => {
                   
                 </button>
                 <button className="all__foods-btn">
-                  <Link to="/foods">
+                  <Link to="/cakes">
                     see all cakes 
                   </Link>
                 </button>
