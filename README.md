@@ -5,7 +5,7 @@ Bienvenue sur le projet **Cake E-Commerce**, une plateforme en ligne pour la ven
 ## Déploiement
 Le site est déployé et accessible via [votre-lien-de-déploiement](lien-de-votre-deploiement).
 
-Pour visionner une démo du site, veuillez suivre le lien vers la vidéo sur Google Drive [lien-vers-la-vidéo](lien-de-la-video).
+Pour visionner une démo du site, veuillez suivre le lien vers la vidéo sur Google Drive [lien-vers-la-vidéo]([lien-de-la-video](https://drive.google.com/file/d/1eqWIEsfD2lQ4l5OjNwT3C6Sq60mpdu3v/view?usp=drive_link)).
 
 ## Fonctionnalités
 - Fonctionnalité d'**ajout au panier**
